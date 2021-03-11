@@ -1,0 +1,11 @@
+.icones {
+    margin-left: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+#rodape {
+    clear: both;
+    bottom: 0;          
+    width: 100%;
+  }
